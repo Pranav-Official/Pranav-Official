@@ -17,7 +17,8 @@ I’m interested in building tools that actually solve real-world problems, and 
 ## Projects:
 
 ### Activly Developing
-1. [Best Take](https://github.com/Pranav-Official/besttake)
+1. [LiteSpark](https://github.com/Pranav-Official/litespark) - [hosted](https://litespark.vercel.app/)
+2. [Best Take](https://github.com/Pranav-Official/besttake)
 
 ### Incrementail Developments
 1. [Kabang](https://github.com/Pranav-Official/kabang)
