@@ -4,8 +4,8 @@
 I’m a Software Engineer based in Kochi. I build full-stack applications and occational mobile apps.
 
 Lately, I’ve been working on:
-* **AI & Agents:** Developing agentic workflows and LLM integrations using LangChain and FastAPI.
-* **Full-Stack:** Shipping production-grade features with TypeScript (Angular/React) and Python.
+* **AI & Agents:** Developing agentic workflows and LLM integrations using LangChain, FastAPI, AI SDK, PI, MCP etc.
+* **Full-Stack:** Shipping production-grade features with TypeScript (Angular/React) and Python/Node.
 * **React-Native** I build mobile apps and tool with react native expo
 * **LL Local Inference** I am really entusiastic about running llm models local, optimising inference, running local agents
 
